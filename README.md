@@ -18,6 +18,6 @@ Delete
 
 Also the original list randomly generated in one text field and applied the beforesaid operations on the resultant text field.
 
-Program also uses a clear() function in order to clear the actionlistners applied before the current operation.
+Program also uses a cleanUp() function in order to clear the actionlistners applied before the current operation.
 
 Note that Stack is a LIFO (Last in first out) structure, and Queue is a FIFO (First in first out) structure.
